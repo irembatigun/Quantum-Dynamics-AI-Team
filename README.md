@@ -1,1 +1,1 @@
-# Quantun-Dynamics-AI-Team
+# Quantum-Dynamics-AI-Team
